@@ -66,6 +66,7 @@ Functional programming:
 
 **Restrict**
 without mutable variables, assignments, loops and imperative control structures. 
+
 **General**
 Focuses on functions
 
